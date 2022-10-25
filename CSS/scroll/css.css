@@ -1,0 +1,46 @@
+* { margin: 0 ;}
+
+html{scroll-behavior: smooth;}
+
+nav ul{list-style: none;
+    display: flex;
+    gap: 2rem;
+    position: fixed;
+background-color: white;
+    height: 2rem;
+    width: 100%;
+    align-items: center;
+}
+
+section
+{min-height: 100vh;
+    padding-top: 2rem;
+}
+#historia{background-color: rgb(173, 62, 86);}
+#servicos{background-color: rgb(2, 12, 5);}
+#contato{background-color: rgb(238, 232, 233);}
+.d1{color: white;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-size:3em}
+.d2{color: white;}
+.d3{color: black;}
+
+
+div.d1{HEIGHT: 25px; LEFT: 1000px; POSITION: absolute; TOP: 85px; WIDTH: 200px;
+    text-align: justify;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+    font-size: medium;
+}
+.p1{HEIGHT: 25px; LEFT: 400px; TOP: 80px; WIDTH: 900px;
+text-align: justify;}
+
+
+
+div.d2{color: white;
+    HEIGHT: 1px; LEFT: 900px; POSITION: absolute; TOP: 700px; WIDTH: 400px
+    
+}
+
+
+

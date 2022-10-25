@@ -1,0 +1,53 @@
+@font-face {
+    font-family:"fonte";
+    src: url(idroid.otf);
+    font-weight: normal;
+    font-style: normal;}
+
+    #id1{text-align: left;}
+
+
+    header{background-image: linear-gradient(#1A5D38, #25824F);
+color: white;
+text-align: center;
+height: 300px;
+font-family: "fonte", "Helvetica Neue", Helvetica, sans-serif;
+}
+
+
+
+nav{text-align: justify;}
+
+h1{text-align: left;
+font-family:"Fonte", Helvetica, sans-serif;
+background-color: #84E1AD;}
+
+p{text-align: center;}
+
+h2{text-align: left;
+background-color: #84E1AD;}
+
+div{width: 900px;
+    height: 10000px;
+text-align: left;
+background-color: #FFFFFF;
+padding: 20px;
+text-align: justify;
+
+}
+.img1{margin: auto;
+    display: block;
+    width: 80%;
+  margin: auto;
+  display: block;}
+
+body{background-color: #84E1AD;}
+
+.p1{text-align: left;}
+.img2{ margin: auto;
+    display: block;
+    width: 30%;
+  margin: auto;
+  display: block;
+
+}

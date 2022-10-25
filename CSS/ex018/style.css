@@ -1,0 +1,15 @@
+@charset "UTF-8";
+body {background-image: linear-gradient(to right, rgb(92, 184, 156), rgb(76, 117, 117) );
+    font-family: Arial, Helvetica, sans-serif;}
+    h1{color: rgb(40, 136, 28);}
+    h2{color: rgb(49, 133, 112);}
+h1#primeiro{text-align: center;
+color: black;}
+h2.basico{color: rgb(192, 192, 192);
+font-size: 2em;
+font-weight: bolder;}
+.intermediario{color: rgb(252, 10, 10);}
+.avancado{color: aqua;
+text-align: center;}
+.primeiro{text-align: justify;
+color: blue;}
